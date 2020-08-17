@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bluetooth App</string>
+
+    <string name="txt_btn_verificar">Verificar e Ativar Bluetooth</string>
+    <string name="txt_btn_pareados">Selecionar Dispositivo</string>
+    <string name="txt_btn_buscar">Buscar dispositivos</string>
+    <string name="txt_btn_visivel">Tornar dispositivo visível</string>
+    <string name="txt_btn_servidor">Iniciar servidor de Chat</string>
+    <string name="txt_btn_lampada">Lampada</string>
+    <string name="txt_btn_enviar">Enviar</string>
+</resources>
